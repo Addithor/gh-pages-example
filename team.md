@@ -3,16 +3,16 @@ layout: page
 title: Team
 ---
 
-# Person A
+# A
 
 Short bio ...
 
 
-# Person B
+# B
 
 Short bio ...
 
 
-# Person C
+# C
 
 Short bio ...
